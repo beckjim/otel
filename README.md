@@ -1,2 +1,2 @@
 # otel
-OpenTelemtry stuff
+OpenTelemetry stuff
